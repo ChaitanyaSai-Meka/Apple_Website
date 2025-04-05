@@ -35,4 +35,4 @@ If you are developing this further for a production application, we recommend:
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ChaitanyaSai-Meka/Apple_Website.git>
